@@ -10,7 +10,7 @@
     [pathogen.vim](https://laboradian.com/use-pathogen-vim/)
     [syntastic](https://qiita.com/foloinfo/items/662007fcf4f802a19f3a)
     [flake8](https://wonderwall.hatenablog.com/entry/2017/02/05/214004)
-1. [このページ](https://www.virtual-surfer.com/entry/2018/04/04/190000)通りに作業を進めてslack botのSkeletonを作成(dotenvを使い公開で後悔しないようにする)
+1. [このページ](https://www.virtual-surfer.com/entry/2018/04/04/190000)通りに作業を進めてslack botのtokenを取得(dotenvを使い公開で後悔しないようにする)
     [dotenv](https://yoshitaku-jp.hatenablog.com/entry/2018/03/31/396/)
 1. [この辺のslackclientの機能](https://slack.dev/python-slackclient/real_time_messaging.html#connecting-to-the-rtm-api)を使って投稿からURLを抽出して#url_listに投稿させる
     [pip install slackclient==2.0.0](https://github.com/slackapi/python-slackclient)
