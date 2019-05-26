@@ -17,4 +17,4 @@
 
 1. サイト通りに作業を進める(dotenvを使い公開で後悔しないようにする)
 + 参考
-[GitHubに乗せたくない情報](https://qiita.com/hedgehoCrow/items/2fd56ebea463e7fc0f5b)
+[GitHubに乗せたくない情報](https://yoshitaku-jp.hatenablog.com/entry/2018/03/31/396/)
