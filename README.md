@@ -13,4 +13,5 @@
 1. [このページ](https://www.virtual-surfer.com/entry/2018/04/04/190000)通りに作業を進めてslack botのSkeletonを作成(dotenvを使い公開で後悔しないようにする)
     [dotenv](https://yoshitaku-jp.hatenablog.com/entry/2018/03/31/396/)
 1. [この辺のslackclientの機能](https://slack.dev/python-slackclient/real_time_messaging.html#connecting-to-the-rtm-api)を使って投稿からURLを抽出して#url_listに投稿させる
+    [slackclientインストール](https://github.com/slackapi/python-slackclient)
 1. [この連載](https://www.virtual-surfer.com/archive/category/Python)を参考にHerokuにデプロイして常時実行する
