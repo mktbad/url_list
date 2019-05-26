@@ -6,8 +6,15 @@
 1. first commit
 1. pyenv + virtualenvで専用のpython環境を作る
 ※設定を書きだすのは.bash_profileにする
-参考
++ 参考
 [pyenv+anaconda](https://qiita.com/sk427/items/9f215931c8249ada75cd)
 [virtualenv](https://qiita.com/shigechioyo/items/198211e84f8e0e9a5c18)
-1. pip install slackbot
-1. 
+1. flake8+autopip8導入 (+Language Server Protocolも導入したいなぁ)
++ 参考
+[pathogen.vim](https://laboradian.com/use-pathogen-vim/)
+[syntastic](https://qiita.com/foloinfo/items/662007fcf4f802a19f3a)
+[flake8](https://wonderwall.hatenablog.com/entry/2017/02/05/214004)
+
+1. サイト通りに作業を進める(dotenvを使い公開で後悔しないようにする)
++ 参考
+[GitHubに乗せたくない情報](https://qiita.com/hedgehoCrow/items/2fd56ebea463e7fc0f5b)
