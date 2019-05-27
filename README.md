@@ -17,3 +17,4 @@
 + todo
 1. [この連載](https://www.virtual-surfer.com/archive/category/Python)を参考にHerokuにデプロイして常時実行する
 1. 将来的にはAPIや実行モードを記述した設定ファイルを読み込んで動作させる
+1. Twitterなどの他アプリと連携させる
