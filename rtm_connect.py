@@ -22,6 +22,6 @@ if sc.rtm_connect():
                     url_part = sub.group()
                     is_user = read_content[0].get('user')
                     if is_user and url_part:
-                        sc.rtm_send_message("url_list", url_part)
+                        sc.rtm_send_message("mktbot", url_part)
 else:
     print("Connection Failed")
