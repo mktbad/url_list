@@ -14,4 +14,6 @@
     [dotenv](https://yoshitaku-jp.hatenablog.com/entry/2018/03/31/396/)
 1. [この辺のslackclientの機能](https://slack.dev/python-slackclient/real_time_messaging.html#connecting-to-the-rtm-api)を使って投稿された文章からURLを抽出して投稿させる
     [pip install slackclient==2.0.0](https://github.com/slackapi/python-slackclient)
++ todo
 1. [この連載](https://www.virtual-surfer.com/archive/category/Python)を参考にHerokuにデプロイして常時実行する
+1. 将来的にはAPIや実行モードを記述した設定ファイルを読み込んで動作させる
